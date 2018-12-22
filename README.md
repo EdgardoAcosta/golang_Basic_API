@@ -1,1 +1,3 @@
-"# golang_Basic_API" 
+# Basic API
+
+Basic api using go and postgres
